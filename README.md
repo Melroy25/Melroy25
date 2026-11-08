@@ -1,25 +1,26 @@
-# 🌍 Hey there! I'm Melroy Almeida
+<!--
+  MELROY ALMEIDA | GITHUB PROFILE README
+  Theme: Dark / Neon / Cyber Tech
+  GitHub username: Melroy25
+-->
 
 <div align="center">
 
-  <img src="https://i.postimg.cc/HLZkHQY6/Whats-App-Image-2025-08-03-at-23-13-15-e143a63a.jpg" width="150" style="border-radius: 50%;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,35:302B63,70:5B4BDB,100:00D4FF&height=220&section=header&text=MELROY%20ALMEIDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Tech%20Explorer&descSize=17&descAlignY=60&animation=twinkling" />
 
-  ### 💻 Developer | AI & ML Enthusiast | Tech Explorer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-  *Turning ideas into impactful digital experiences.*
+<br/>
 
-  <a href="https://www.linkedin.com/in/melroyalmeida25">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:melroyalmeida6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/melroy_almeida_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/1215295588900405354">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<a href="https://github.com/Melroy25">
+<img src="https://img.shields.io/badge/GitHub-Melroy25-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/melroyalmeida25">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:melroyalmeida6@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -27,90 +28,166 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about building real-world solutions through **Software Development, Artificial Intelligence, and Machine Learning.**
+<div align="center">
+<img align="right" width="250" src="https://i.postimg.cc/HLZkHQY6/Whats-App-Image-2025-08-03-at-23-13-15-e143a63a.jpg" />
+</div>
 
-- 🎓 Pursuing B.E. in Computer Science and Engineering.
-- 💡 I enjoy transforming ideas into functional and meaningful products.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision.
-- 🌐 Interested in Web Development, Mobile Applications, IoT, and Cloud Technologies.
-- 🛠️ Constantly experimenting with new tools, frameworks, and technologies.
-- 🤝 Love participating in hackathons, tech events, and developer communities.
-- 🚀 Always learning, building, and collaborating.
+Hey! I'm **Melroy Luvis Almeida**, a Computer Science Engineering student passionate about technology, innovation, and building things that make a difference.
+
+I enjoy turning creative ideas into functional products and exploring technologies across different domains.
+
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Software Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌐 Interested in Full-Stack and Mobile Development
+- 🔌 Experimenting with IoT and Automation
+- ☁️ Exploring Cloud Technologies and Backend Systems
+- 🏆 Participating in Hackathons and Tech Communities
+- 🤝 Always open to collaboration and new ideas
+
+<br clear="right"/>
+
+<div align="center">
+
+### ⚡ My Philosophy
 
 **Build. Break. Learn. Repeat.**
+
+</div>
+
+---
+
+## 🚀 What I'm Exploring
+
+<div align="center">
+
+| Domain | Interests |
+|:---:|:---|
+| 🌐 Web Development | Full-Stack Applications, APIs, Backend Systems |
+| 🤖 AI & ML | Machine Learning, Computer Vision, Generative AI |
+| 📱 App Development | Mobile Applications, Flutter |
+| 🔌 IoT | ESP32, Smart Systems, Automation |
+| ☁️ Cloud | Deployment, Cloud Infrastructure, Firebase |
+| ⚙️ Software Engineering | DSA, System Design, Production-Level Projects |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,r,kotlin" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,r&theme=dark" />
+
+</div>
 
 ### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&theme=dark" />
+
+</div>
 
 ### ⚙️ Backend & Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,kotlin,dart" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,dart&theme=dark" />
+
+</div>
 
 ### 🗄️ Databases & Backend Services
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,appwrite,postgres" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,appwrite,postgres&theme=dark" />
+
+</div>
 
 ### 🤖 AI, ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,numpy,pandas,matplotlib" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,numpy,pandas,matplotlib&theme=dark" />
+
+</div>
 
 ### ☁️ Cloud, Deployment & Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vercel,netlify,cloudflare,postman,npm,anaconda" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vercel,netlify,cloudflare,postman,npm,anaconda&theme=dark" />
+
+</div>
 
 ### 🎨 Design & Creative Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender,ae,ps,ai,pr,canva" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Melroy25&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Melroy25&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-
-  <br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Melroy25&theme=github-dark-blue&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,canva&theme=dark" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Melroy25&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Melroy25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melroy25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Melroy25&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=BD93F9&currStreakLabel=00D4FF" />
 
 </div>
 
 ---
 
-## 💡 Developer Quote
+## 🏆 My GitHub Achievements
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="115" alt="Pull Shark Achievement"/>
+
+### 🦈 Pull Shark
+
+*Merged Pull Requests*
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="115" alt="YOLO Achievement"/>
+
+### 🌈 YOLO
+
+*Merged a Pull Request without review*
+
+</td>
+</tr>
+</table>
+
+**More milestones. More contributions. More achievements to unlock! 🚀**
+
+</div>
+
+---
+
+## 💬 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -118,20 +195,35 @@ I'm a Computer Science Engineering student passionate about building real-world 
 
 ## 🤝 Let's Connect!
 
-I'm always open to connecting with fellow developers, collaborating on interesting projects, exploring new technologies, and learning from the developer community.
-
 <div align="center">
 
-  **Have an idea? Let's build it together! 🚀**
+I'm always excited to meet developers, exchange ideas, collaborate on interesting projects, and explore new technologies.
 
-  <a href="https://www.linkedin.com/in/melroyalmeida25">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+**Got an interesting idea? Let's make it happen!**
 
-  <br/><br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Melroy25&label=Profile%20Views&color=blueviolet&style=flat" />
+<a href="https://github.com/Melroy25">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/melroyalmeida25">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.instagram.com/melroy_almeida_">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+<a href="mailto:melroyalmeida6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/><br/>
+
+### ✨ Thanks for visiting my profile!
+
+**Keep Creating. Keep Innovating. Keep Building.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,40:5B4BDB,100:090A1A&height=120&section=footer&animation=twinkling" />
 
 </div>
 
-<!-- Always learning. Always building. --> 
+<!-- End of README | Made with curiosity by Melroy Almeida -->
