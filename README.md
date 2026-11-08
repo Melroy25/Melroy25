@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" src="image_c3bd11.png" alt="GitHub Logo" />
+<img width="120" src="image2.jpg" alt="GitHub Logo" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="250" src="image_c3bcd5.jpg" alt="Me vs Me" />
+<img align="right" width="250" src="image1.jpg" alt="Me vs Me" />
 
 Hey! I'm **Melroy Luvis Almeida**, a Computer Science Engineering student passionate about technology, innovation, and building things that make a difference.
 
