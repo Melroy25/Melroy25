@@ -4,9 +4,6 @@
 
 <div align="center">
 
-<!-- ANIMATED TOP BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111C44,70:153E75,100:00D4FF&height=220&section=header&text=MELROY%20LUVIS%20ALMEIDA&fontSize=39&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=13&descAlignY=58&descColor=A9FEF7" />
-
 <!-- ANIMATED INTRO -->
 <a href="https://github.com/Melroy25">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=850&height=45&lines=Full-Stack+Developer+%7C+AI+Explorer;Building+Ideas+Into+Real-World+Solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Web+%7C+Mobile+%7C+IoT+%7C+Cloud;Always+Learning.+Always+Building." alt="Animated introduction" />
