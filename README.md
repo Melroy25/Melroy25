@@ -30,7 +30,7 @@
 <br/>
 
 
-## 👨‍💻 About Me
+## About Me
 
 <table border="0">
 <tr>
@@ -104,7 +104,7 @@ developer:
 <!--                         ABOUT ME                           -->
 <!-- ========================================================= -->
 
-### ⚡ MY PHILOSOPHY
+### MY PHILOSOPHY
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=%22Never+stop+experimenting.+Every+failure+is+just+another+version+of+progress.%22" />
 
@@ -120,13 +120,13 @@ developer:
 <!--                      WHAT I EXPLORE                        -->
 <!-- ========================================================= -->
 
-## 🚀 What I'm Exploring
+## What I'm Exploring
 
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🌐 Web Architecture
+### Web Architecture
 
 <img src="https://img.shields.io/badge/FULL--STACK-00D4FF?style=flat-square&labelColor=0D1117" />
 
@@ -137,7 +137,7 @@ developer:
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🤖 AI, ML & Vision
+### AI, ML & Vision
 
 <img src="https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=flat-square&labelColor=0D1117" />
 
@@ -148,7 +148,7 @@ developer:
 </td>
 <td width="33%" align="center" valign="top">
 
-### 📱 Cross-Platform Apps
+### Cross-Platform Apps
 
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&labelColor=0D1117" />
 
@@ -162,7 +162,7 @@ developer:
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🔌 IoT & Edge
+### IoT & Edge
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&labelColor=0D1117" />
 
@@ -173,7 +173,7 @@ developer:
 </td>
 <td width="33%" align="center" valign="top">
 
-### ☁️ Cloud & BaaS
+### Cloud & BaaS
 
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&labelColor=0D1117" />
 
@@ -184,7 +184,7 @@ developer:
 </td>
 <td width="33%" align="center" valign="top">
 
-### ⚙️ Core Engineering
+### Core Engineering
 
 <img src="https://img.shields.io/badge/SYSTEM_DESIGN-BD93F9?style=flat-square&labelColor=0D1117" />
 
@@ -202,27 +202,27 @@ developer:
 <!--                       TECH STACK                           -->
 <!-- ========================================================= -->
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,r&theme=dark" />
 
-### 🌐 Frontend Development
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&theme=dark" />
 
-### ⚙️ Backend & Mobile Development
+### Backend & Mobile Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,dart&theme=dark" />
 
-### 🗄️ Databases & Backend Services
+### Databases & Backend Services
 
 <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,appwrite,postgres&theme=dark" />
 
-### 🤖 AI, ML & Data Science
+### AI, ML & Data Science
 
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,sklearn,anaconda&theme=dark" />
 
@@ -230,11 +230,11 @@ developer:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" width="48" />
 
-### ☁️ Cloud, Deployment & Developer Tools
+### Cloud, Deployment & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vercel,netlify,cloudflare,postman,npm&theme=dark" />
 
-### 🎨 Design & Creative Tools
+### Design & Creative Tools
 
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,canva&theme=dark" />
 
@@ -248,7 +248,7 @@ developer:
 <!--                      GITHUB ANALYTICS                      -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Analytics & Activity
+## GitHub Analytics & Activity
 
 <div align="center">
 
@@ -259,13 +259,13 @@ developer:
 
 <br/><br/>
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 <img width="75%" src="https://streak-stats.demolab.com?user=Melroy25&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=BD93F9&currStreakLabel=00D4FF" />
 
 <br/><br/>
 
-### 🌌 Contribution Activity
+### Contribution Activity
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melroy25&theme=tokyonight" />
 
@@ -285,7 +285,7 @@ developer:
 <!--                       ACHIEVEMENTS                         -->
 <!-- ========================================================= -->
 
-## 🏆 My GitHub Achievements
+## My GitHub Achievements
 
 <div align="center">
 
@@ -295,7 +295,7 @@ developer:
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="115" />
 
-### 🦈 Pull Shark
+### Pull Shark
 
 <sub>Merged Pull Requests into open-source & collaborative repositories.</sub>
 
@@ -304,7 +304,7 @@ developer:
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="115" />
 
-### 🌈 YOLO
+### YOLO
 
 <sub>Shipped & merged a Pull Request straight to production.</sub>
 
@@ -326,7 +326,7 @@ developer:
 <!--                     DEVELOPER QUOTE                        -->
 <!-- ========================================================= -->
 
-## 💬 Developer Quote
+## Developer Quote
 
 <div align="center">
 
@@ -340,7 +340,7 @@ developer:
 <!--                       CONNECT WITH ME                      -->
 <!-- ========================================================= -->
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -369,8 +369,6 @@ I'm always excited to meet developers, exchange ideas, collaborate on interestin
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=Keep+Creating.;Keep+Innovating.;Keep+Building.;The+Best+Version+Is+Still+Under+Development+%E2%9A%A1" />
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:153E75,100:050816&height=130&section=footer&animation=twinkling" />
 
 </div>
 
