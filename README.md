@@ -29,42 +29,6 @@
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<!-- ========================================================= -->
-<!--                    SYSTEM INITIALIZATION                  -->
-<!-- ========================================================= -->
-
-<h2 align="center">⌨️ SYSTEM INITIALIZATION</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=600&color=39FF14&center=true&vCenter=true&width=650&height=30&lines=%3E+Initializing+developer+environment...;%3E+Loading+curiosity.exe...;%3E+Connecting+to+innovation...;%3E+Loading+problem_solving.dll...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+WELCOME+TO+MY+DIGITAL+SPACE." alt="System boot sequence" />
-
-</div>
-
-```yaml
-developer:
-  name: "Melroy Luvis Almeida"
-  role: "Computer Science Engineering Student & Full-Stack / AI Developer"
-  education: "St Joseph Engineering College, Mangaluru"
-  focus:
-    - AI & Computer Vision
-    - Full-Stack Web Development
-    - Flutter & Mobile Development
-    - IoT & Embedded Systems
-    - Cloud & Backend Technologies
-
-  mindset: "Me vs Me — Outbuilding yesterday's version of myself."
-  status: "Open to Hackathons, Collaborations & Exciting Projects"
-
-  philosophy: "Never stop experimenting. Every failure is just another version of progress."
-```
-
-<!-- ========================================================= -->
-<!--                         ABOUT ME                           -->
-<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
@@ -103,6 +67,42 @@ I thrive on turning ambitious concepts into scalable, real-world applications ac
 <br/>
 
 <div align="center">
+<!-- ANIMATED DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ========================================================= -->
+<!--                    SYSTEM INITIALIZATION                  -->
+<!-- ========================================================= -->
+
+<h2 align="center">⌨️ SYSTEM INITIALIZATION</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=600&color=39FF14&center=true&vCenter=true&width=650&height=30&lines=%3E+Initializing+developer+environment...;%3E+Loading+curiosity.exe...;%3E+Connecting+to+innovation...;%3E+Loading+problem_solving.dll...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+WELCOME+TO+MY+DIGITAL+SPACE." alt="System boot sequence" />
+
+</div>
+
+```yaml
+developer:
+  name: "Melroy Luvis Almeida"
+  role: "Computer Science Engineering Student & Full-Stack / AI Developer"
+  education: "St Joseph Engineering College, Mangaluru"
+  focus:
+    - AI & Computer Vision
+    - Full-Stack Web Development
+    - Flutter & Mobile Development
+    - IoT & Embedded Systems
+    - Cloud & Backend Technologies
+
+  mindset: "Me vs Me — Outbuilding yesterday's version of myself."
+  status: "Open to Hackathons, Collaborations & Exciting Projects"
+
+  philosophy: "Never stop experimenting. Every failure is just another version of progress."
+```
+
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
 
 ### ⚡ MY PHILOSOPHY
 
