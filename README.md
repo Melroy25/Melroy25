@@ -191,7 +191,7 @@ status: "Open to Hackathons, Collaborations & Exciting Projects"
 <br/><br/>
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melroy25&theme=tokyonight" alt="Melroy's GitHub Activity Graph" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melroy25&theme=tokyonight"  />
 
 </div>
 
