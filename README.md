@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="120" src="image2.jpg" alt="GitHub Logo" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br/>
 
