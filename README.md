@@ -1,8 +1,4 @@
-<!--
-  MELROY ALMEIDA | GITHUB PROFILE README
-  Theme: Dark / Neon / Cyber Tech
-  GitHub username: Melroy25
--->
+
 
 <div align="center">
 
@@ -51,7 +47,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 ### ⚡ My Philosophy
 
-**Build. Break. Learn. Repeat.**
+**Never stop experimenting. Every failure is just another version of progress.**
 
 </div>
 
