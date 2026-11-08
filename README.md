@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090A1A,35:302B63,70:5B4BDB,100:00D4FF&amp;height=220&amp;section=header&amp;text=MELROY%20ALMEIDA&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Tech%20Explorer&amp;descSize=17&amp;descAlignY=60&amp;animation=twinkling" />
+<img width="120" src="image_c3bd11.png" alt="GitHub Logo" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
 
@@ -22,9 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-<img align="right" width="250" src="https://i.postimg.cc/HLZkHQY6/Whats-App-Image-2025-08-03-at-23-13-15-e143a63a.jpg" />
-</div>
+<img align="right" width="250" src="image_c3bcd5.jpg" alt="Me vs Me" />
 
 Hey! I'm **Melroy Luvis Almeida**, a Computer Science Engineering student passionate about technology, innovation, and building things that make a difference.
 
@@ -72,59 +70,31 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 ### 💻 Programming Languages
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,r&amp;theme=dark" />
-
-</div>
 
 ### 🌐 Frontend Development
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&amp;theme=dark" />
-
-</div>
 
 ### ⚙️ Backend & Mobile Development
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,dart&amp;theme=dark" />
-
-</div>
 
 ### 🗄️ Databases & Backend Services
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,appwrite,postgres&amp;theme=dark" />
-
-</div>
 
 ### 🤖 AI, ML & Data Science
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,numpy,pandas,matplotlib&amp;theme=dark" />
-
-</div>
 
 ### ☁️ Cloud, Deployment & Developer Tools
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vercel,netlify,cloudflare,postman,npm,anaconda&amp;theme=dark" />
-
-</div>
 
 ### 🎨 Design & Creative Tools
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,canva&amp;theme=dark" />
-
-</div>
 
 ---
 
