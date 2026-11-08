@@ -32,7 +32,7 @@
 <!-- GLOWING ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
-## About Me
+## 👨‍💻 About Me
 
 <!-- RIGHT-ALIGNED CIPHER DECODING TERMINAL + IMAGE -->
 <table align="right" width="290">
@@ -190,8 +190,8 @@ status: "Open to Hackathons, Collaborations & Exciting Projects"
 
 <br/><br/>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melroy25&theme=tokyonight"  />
+<!-- CONTRIBUTION ACTIVITY GRAPH (NAME FIXED TO MELROY25) -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melroy25&name=Melroy25&theme=tokyonight" alt="Melroy's GitHub Activity Graph" />
 
 </div>
 
@@ -246,7 +246,7 @@ I'm always excited to meet developers, exchange ideas, collaborate on interestin
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/melroyalmeida25">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/melroy_almeida_">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
