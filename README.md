@@ -364,12 +364,12 @@ I'm always excited to meet developers, exchange ideas, collaborate on interestin
 </a>
 
 <br/><br/>
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <!-- FINAL ANIMATED MESSAGE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=Keep+Creating.;Keep+Innovating.;Keep+Building.;The+Best+Version+Is+Still+Under+Development+%E2%9A%A1" />
 
 <br/>
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 </div>
 
 <!-- ========================================================= -->
