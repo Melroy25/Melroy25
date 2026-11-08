@@ -25,10 +25,6 @@
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Melroy25&label=PROFILE+VIEWS&color=00D4FF&style=flat-square" />
-
 </div>
 
 <br/>
