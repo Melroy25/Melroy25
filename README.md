@@ -1,21 +1,19 @@
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,35:302B63,70:5B4BDB,100:00D4FF&height=220&section=header&text=MELROY%20ALMEIDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Tech%20Explorer&descSize=17&descAlignY=60&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090A1A,35:302B63,70:5B4BDB,100:00D4FF&amp;height=220&amp;section=header&amp;text=MELROY%20ALMEIDA&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Tech%20Explorer&amp;descSize=17&amp;descAlignY=60&amp;animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Building+ideas+into+real-world+solutions;Exploring+AI%2C+ML+%26+Computer+Vision;Full-Stack+Development+Enthusiast;Experimenting+with+IoT+%26+Cloud+Technologies;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Melroy25">
-<img src="https://img.shields.io/badge/GitHub-Melroy25-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Melroy25-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/melroyalmeida25">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="mailto:melroyalmeida6@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 </div>
@@ -76,7 +74,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,r&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,r&amp;theme=dark" />
 
 </div>
 
@@ -84,7 +82,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&amp;theme=dark" />
 
 </div>
 
@@ -92,7 +90,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,dart&amp;theme=dark" />
 
 </div>
 
@@ -100,7 +98,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,appwrite,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,supabase,appwrite,postgres&amp;theme=dark" />
 
 </div>
 
@@ -108,7 +106,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,numpy,pandas,matplotlib&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,numpy,pandas,matplotlib&amp;theme=dark" />
 
 </div>
 
@@ -116,7 +114,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vercel,netlify,cloudflare,postman,npm,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vercel,netlify,cloudflare,postman,npm,anaconda&amp;theme=dark" />
 
 </div>
 
@@ -124,7 +122,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,canva&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,canva&amp;theme=dark" />
 
 </div>
 
@@ -134,13 +132,13 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Melroy25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Melroy25&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melroy25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melroy25&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Melroy25&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=BD93F9&currStreakLabel=00D4FF" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Melroy25&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00D4FF&amp;fire=BD93F9&amp;currStreakLabel=00D4FF" />
 
 </div>
 
@@ -183,7 +181,7 @@ I enjoy turning creative ideas into functional products and exploring technologi
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
 
 </div>
 
@@ -200,16 +198,16 @@ I'm always excited to meet developers, exchange ideas, collaborate on interestin
 <br/>
 
 <a href="https://github.com/Melroy25">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/melroyalmeida25">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&amp;logo=linkedin" />
 </a>
 <a href="https://www.instagram.com/melroy_almeida_">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&amp;logo=instagram" />
 </a>
 <a href="mailto:melroyalmeida6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&amp;logo=gmail" />
 </a>
 
 <br/><br/>
@@ -218,8 +216,6 @@ I'm always excited to meet developers, exchange ideas, collaborate on interestin
 
 **Keep Creating. Keep Innovating. Keep Building.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,40:5B4BDB,100:090A1A&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,40:5B4BDB,100:090A1A&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 
 </div>
-
-<!-- End of README | Made with curiosity by Melroy Almeida -->
